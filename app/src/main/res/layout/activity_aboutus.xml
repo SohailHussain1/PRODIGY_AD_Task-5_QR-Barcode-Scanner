@@ -1,0 +1,43 @@
+<!-- about_us_layout.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/spalsh_gradient"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Syed Sohail's World of Computer Science!"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:paddingBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:paddingBottom="16dp"
+        android:text="Introduction:\n\nHello there! I'm Syed Sohail, a dedicated computer science student with a passion for creating innovative mobile applications and building robust web experiences. Through this platform, I aim to share my knowledge, insights, and projects in the realm of Android development and frontend/backend technologies.\n"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="167dp"
+        android:paddingBottom="16dp"
+        android:text="Background and Education:\n\nI am currently pursuing a Bachelor's degree in Computer Science, specializing in mobile application development, at Air University. My educational journey has provided me with a strong foundation in computer science principles, data structures, and algorithms. Alongside my coursework, I have extensively explored the Android ecosystem, acquiring expertise in Java for Android app development.\n"
+        android:textColor="@android:color/black" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
+        android:paddingBottom="16dp"
+        android:text="Expertise and Interests:\n\nMy primary areas of expertise lie in Android development and frontend/backend technologies. I possess comprehensive knowledge of Android Studio, including designing intuitive user interfaces with XML and implementing functionality with Java. Additionally, I have experience working with popular backend frameworks such as Node.js, as well as frontend technologies like HTML5, CSS3, and JavaScript.\n"
+        android:textColor="@android:color/black" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Connect with Me:\n\nI would love to connect with fellow enthusiasts and engage in discussions about Android development, frontend/backend technologies, and emerging tech. Don't hesitate to reach out to me via email at sohailsherazii12@gmail.com or connect with me on LinkedIn and GitHub.\n"
+        android:textColor="@android:color/black"
+        android:paddingBottom="16dp" />
+
+</LinearLayout>

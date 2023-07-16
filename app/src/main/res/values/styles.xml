@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomActionBarTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/customActionBarColor</item>
+        <item name="colorPrimaryDark">@color/customActionBarColorDark</item>
+    </style>
+</resources>
